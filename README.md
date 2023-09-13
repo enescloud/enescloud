@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enescloud&label=Profile%20views&color=0e75b6&style=flat" alt="enescloud" /> </p>
 
-- 🔭 I’m currently working in **Ollang**
+- 🔭 I’m currently working at **Ollang**
 
 - 💬 Ask me about **nodejs(expressjs, nestjs), typescript**
 
